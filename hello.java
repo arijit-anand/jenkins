@@ -8,7 +8,7 @@ public class hello1{
 		while(i<12)
 		{
 		  System.out.println("The value is here"+i);
-		  System.out.println("The value is not here");
+		  System.out.println("The value is not ");
 		  i++;
 		}
 	}
